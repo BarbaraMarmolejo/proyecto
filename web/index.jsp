@@ -4,4 +4,4 @@
     Author     : barba
 --%>
 
-<jsp:forward page="contenido.html"></jsp:forward>
+<jsp:forward page="index.html"></jsp:forward>
